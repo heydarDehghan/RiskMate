@@ -15,7 +15,7 @@ To use this tool, ensure you have **Python 3.6+** installed on your system.
 
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/your-username/position-size-calculator.git
+   git clone https://github.com/heydarDehghan/RiskMate.git
    cd position-size-calculator
    ```
 
